@@ -13,6 +13,7 @@
 
 O Markos-bot é um bot do modificado do [MhankBar](https://github.com/MhankBarBar/termux-wabot) e traduzido para o português pt-br, e usado no termux e é bem facil a instalação, segue os comandos de como instalar o Markos-bot
 
+copia não palhaço
 ---
 
 
