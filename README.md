@@ -1,6 +1,6 @@
 # Brizas-bot
 <h1 align="center">
-    <img src= "https://ik.imagekit.io/tiu4ccatpmq/logo_size_DMp1826OOKxX.jpg">
+    <img src= "https://avatars2.githubusercontent.com/u/76796419?s=400&u=6ba258f699dff529df594b33c5e23c586e4c0f5d&v=4">
 </h1>
 
 # Índice
