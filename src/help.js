@@ -1,5 +1,5 @@
 const help = (prefix) => {
-	return `💎 Comandos do MARKOS bot2 💎  
+	return `🥶 Comandos do Sic bot 🥶 
 🔰 Principais Comandos 🔰 
 
 Comando: '${prefix}sticker' ou '${prefix}stiker'
@@ -192,10 +192,9 @@ Como Usar: '${prefix}simih 1' para ativar o modo simih e '${prefix}simih 0' para
 Obs: Este comando pode ser usado se você for um administrador do grupo 
 
 
-🔰 Apoie o criador do bot a adicionar comandos novos 🥺 🔰
+🔰 diga o criador do bot para adicionar comandos novos 🥺 🔰
 
-mercado pago : mwythor@gmail.com (só doar qqr quantia nesse gmail já ajuda)
-
+Instagram : @kkyutx
 `
 }
 
