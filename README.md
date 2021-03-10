@@ -11,7 +11,7 @@
 
 # O que é ?
 
-O Markos-bot é um bot do modificado do [MhankBar](https://github.com/MhankBarBar/termux-wabot) e traduzido para o português pt-br, e usado no termux e é bem facil a instalação, segue os comandos de como instalar o Markos-bot
+O Sic-bot é um bot do modificado do [MhankBar](https://github.com/MhankBarBar/termux-wabot) e traduzido para o português pt-br, e usado no termux e é bem facil a instalação, segue os comandos de como instalar o Markos-bot
 
 copia não palhaço
 ---
@@ -32,10 +32,10 @@ npm start
 
 [Doações](https://www.mercadopago.com.br/)
 
-o gmail do mercado pago é: mwythor@gmail.com
+o meu Instagram é : @kkyutx
 ---
 
 # Contato
 
-[Whatsapp](https://wa.me/5594988088531)
+[Whatsapp](https://wa.me/5521968221650)
 
