@@ -22,7 +22,7 @@ copia não palhaço
 [termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
 
 ```
-git clone https://github.com/markoswythor/bot
+git clone https://github.com/Sickkx/bot
 cd bot
 bash install.sh
 npm start
